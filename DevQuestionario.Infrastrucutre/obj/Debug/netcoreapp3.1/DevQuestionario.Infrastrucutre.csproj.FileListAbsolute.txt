@@ -1,0 +1,15 @@
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Infrastrucutre\bin\Debug\netcoreapp3.1\DevQuestionario.Infrastrucutre.deps.json
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Infrastrucutre\bin\Debug\netcoreapp3.1\DevQuestionario.Infrastrucutre.runtimeconfig.json
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Infrastrucutre\bin\Debug\netcoreapp3.1\DevQuestionario.Infrastrucutre.runtimeconfig.dev.json
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Infrastrucutre\bin\Debug\netcoreapp3.1\DevQuestionario.Infrastrucutre.dll
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Infrastrucutre\bin\Debug\netcoreapp3.1\DevQuestionario.Infrastrucutre.pdb
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Infrastrucutre\bin\Debug\netcoreapp3.1\DevQuestionario.Core.dll
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Infrastrucutre\bin\Debug\netcoreapp3.1\DevQuestionario.Core.pdb
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Infrastrucutre\obj\Debug\netcoreapp3.1\DevQuestionario.Infrastrucutre.csprojAssemblyReference.cache
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Infrastrucutre\obj\Debug\netcoreapp3.1\DevQuestionario.Infrastrucutre.AssemblyInfoInputs.cache
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Infrastrucutre\obj\Debug\netcoreapp3.1\DevQuestionario.Infrastrucutre.AssemblyInfo.cs
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Infrastrucutre\obj\Debug\netcoreapp3.1\DevQuestionario.Infrastrucutre.csproj.CoreCompileInputs.cache
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Infrastrucutre\obj\Debug\netcoreapp3.1\DevQuestionario.Infrastrucutre.csproj.CopyComplete
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Infrastrucutre\obj\Debug\netcoreapp3.1\DevQuestionario.Infrastrucutre.dll
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Infrastrucutre\obj\Debug\netcoreapp3.1\DevQuestionario.Infrastrucutre.pdb
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Infrastrucutre\obj\Debug\netcoreapp3.1\DevQuestionario.Infrastrucutre.genruntimeconfig.cache

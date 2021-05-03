@@ -1,0 +1,8 @@
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Core\bin\Debug\netcoreapp3.1\DevQuestionario.Core.deps.json
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Core\bin\Debug\netcoreapp3.1\DevQuestionario.Core.dll
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Core\bin\Debug\netcoreapp3.1\DevQuestionario.Core.pdb
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Core\obj\Debug\netcoreapp3.1\DevQuestionario.Core.AssemblyInfoInputs.cache
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Core\obj\Debug\netcoreapp3.1\DevQuestionario.Core.AssemblyInfo.cs
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Core\obj\Debug\netcoreapp3.1\DevQuestionario.Core.csproj.CoreCompileInputs.cache
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Core\obj\Debug\netcoreapp3.1\DevQuestionario.Core.dll
+D:\apps\asp_net\DevQuestionario\DevQuestionario.Core\obj\Debug\netcoreapp3.1\DevQuestionario.Core.pdb
